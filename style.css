@@ -2,31 +2,7 @@ body {
     text-align: center;
     background: linear-gradient( rgb(121, 218, 220), rgb(48, 132, 228));
 }
-.capa{
-    width: 100%;
-}
-.beneficios{
-    text-align: left;
-    display: inline-block;
-}
-.beneficios h2{
-    text-align: center;
-}
-ul{
-    display: inline-block;
-    vertical-align: top;
-    font-size: 26px;
-    margin-right: 300px;
-    margin-left: 50px;
-}
-li{
-    padding: 20px;
-}
-.foto-beneficios{
-    width: 35%;
-    border-radius: 20px;
-    box-shadow: 2px 2px 4px #000000;
-}
+
 .logo{
     width: 15%;
     border-radius: 100%;
@@ -52,4 +28,29 @@ nav a:hover{
     font-size: 25px;
     color: blue;
     transition: 0.5s;
+}
+.capa{
+    width: 100%;
+}
+.beneficios{
+    text-align: left;
+    display: inline-block;
+}
+.beneficios h2{
+    text-align: center;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    font-size: 26px;
+    margin-right: 300px;
+    margin-left: 50px;
+}
+li{
+    padding: 20px;
+}
+.foto-beneficios{
+    width: 35%;
+    border-radius: 20px;
+    box-shadow: 2px 2px 4px #000000;
 }
